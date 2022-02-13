@@ -1,0 +1,13 @@
+target/
+browsers.json
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+Thumbs.db*
+.DS_Store*
+node_modules
+.allure
